@@ -26,11 +26,13 @@ pip install -r requirements.txt
 jupyter notebook house_price_prediction.ipynb
 
 **Files**
+
 house_price_prediction.ipynb: Jupyter Notebook containing the code for the house price prediction model.
 
 readme.txt: Documentation file providing information about the project.
 
 **Dependencies**
+
 Python 3.x
 
 Jupyter Notebook
@@ -44,5 +46,6 @@ scikit-learn
 Matplotlib
 
 **Results**
+
 The model is evaluated based on Mean Squared Error (MSE), and the coefficients are visualized to showcase the impact of L1 regularization on feature selection.
 
